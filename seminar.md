@@ -1,6 +1,6 @@
 ---
 title: "Image Analysis Seminar and Workshop"
-permalink: /site_old/seminar/
+permalink: /seminar/
 layout: page
 ---
 
