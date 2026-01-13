@@ -12,7 +12,7 @@ Attendees: approx. 20 Rockefeller researchers in-person + a similar number joine
 ![seminar announcement](/seminar_workkshop/Seminar_flyer.png)
 
 
-Download <a href="/seminar_workkshop/Image analysis seminar_v10.pdf" download>Seminar Slides</a>  
+Download <a href="/site_old/seminar_workkshop/Image analysis seminar_v10.pdf" download>Seminar Slides</a>  
 
 ---  
 ## Workshop
