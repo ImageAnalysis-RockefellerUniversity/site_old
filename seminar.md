@@ -4,6 +4,7 @@ permalink: /seminar/
 layout: page
 ---
 
+---
 ## Seminar  
 BIRC organized a hybrid (in-person and on Zoom) image analysis seminar, followed by a workshop on April 6th, 2022.  
 
