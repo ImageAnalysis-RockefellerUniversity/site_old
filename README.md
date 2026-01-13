@@ -1,5 +1,5 @@
 Please click below to access all the training material available from the Image Analysis, Rockefeller University website:  
-https://imageanalysis-rockefelleruniversity.github.io/training/
+https://imageanalysis-rockefelleruniversity.github.io/site_old/training/
 
 
 
